@@ -1,5 +1,5 @@
 <a href="https://bmbwaveforms.github.io/Ryan-Home/" title="Visit Ryan’s personal website">
-  <img src="assets/ryan-cover.png" alt="Ryan · 焦博文 · AI Products, Skills and Vibe Coding" width="100%">
+  <img src="assets/ryan-cover-v2.png" alt="Ryan · 焦博文 · AI Products, Skills and Vibe Coding" width="100%">
 </a>
 
 <p align="center">
