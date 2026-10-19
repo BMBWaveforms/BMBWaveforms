@@ -12,7 +12,7 @@
   <a href="https://xhslink.cn/o/13OQAkBmW7Q"><img src="assets/badges/xiaohongshu-link.svg" alt="打开我的小红书主页" width="73" height="24"></a>
 </p>
 
-## Working stack
+## 🛠️ Working stack
 
 <p><strong>Daily</strong> &nbsp;
   <img src="assets/badges/html.svg" alt="HTML5" width="78" height="24">
@@ -30,7 +30,7 @@
 <p><strong>Focus</strong> &nbsp; AI&nbsp;Products &nbsp; · &nbsp; Vibe&nbsp;Coding &nbsp; · &nbsp; Open&nbsp;Source &nbsp; · &nbsp; Writing</p>
 
 <!-- SOCIAL_LINKS_START -->
-## Writing & Sharing
+## ✍️ Writing & Sharing
 
 <p>
   <picture>
