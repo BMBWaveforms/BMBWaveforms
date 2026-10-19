@@ -17,44 +17,14 @@
 <!-- PROJECTS_START -->
 ## 📂 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer">Guoman Character Designer&nbsp;↗</a></h3>
-      <p><sub>国漫角色四视图的中文提示词 Skill。</sub></p>
-      <p><img src="assets/projects/creative-skill.svg" alt="Creative Skill" width="112" height="22"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BMBWaveforms/LifeOS" title="BMBWaveforms/LifeOS">LifeOS · My Fork&nbsp;↗</a></h3>
-      <p><sub>个人分支，探索指南问答与长期记忆。</sub></p>
-      <p><img src="assets/projects/personal-fork.svg" alt="Personal Fork" width="118" height="22"></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BMBWaveforms/Ryan-Home" title="BMBWaveforms/Ryan-Home">Ryan Home&nbsp;↗</a></h3>
-      <p><sub>个人网站，记录 AI 产品与网页设计探索。</sub></p>
-      <p><img src="assets/projects/website.svg" alt="Website" width="87" height="22"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BMBWaveforms/single-agent-analysis" title="BMBWaveforms/single-agent-analysis">Agent Analysis&nbsp;↗</a></h3>
-      <p><sub>拆解 Agent 上下文、工具调用与运行逻辑。</sub></p>
-      <p><img src="assets/projects/agent-research.svg" alt="Agent Research" width="127" height="22"></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/BMBWaveforms/single-competitor-analysis" title="BMBWaveforms/single-competitor-analysis">Competitor Analysis&nbsp;↗</a></h3>
-      <p><sub>按五层方法研究竞品，梳理定位与机制。</sub></p>
-      <p><img src="assets/projects/product-research.svg" alt="Product Research" width="139" height="22"></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shuaishuaisylas/LifeOS" title="shuaishuaisylas/LifeOS">LifeOS · Upstream&nbsp;↗</a></h3>
-      <p><sub>上游项目，提供指南问答与长期记忆。</sub></p>
-      <p><img src="assets/projects/open-source.svg" alt="Open Source" width="110" height="22"></p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/creative-skill-light.svg"><img src="assets/projects/cards/creative-skill-dark.svg" alt="Guoman Character Designer — 国漫角色四视图的中文提示词 Skill。 Creative Skill" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/LifeOS" title="BMBWaveforms/LifeOS"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/personal-fork-light.svg"><img src="assets/projects/cards/personal-fork-dark.svg" alt="LifeOS · My Fork — 个人分支，探索指南问答与长期记忆。 Personal Fork" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/Ryan-Home" title="BMBWaveforms/Ryan-Home"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/website-light.svg"><img src="assets/projects/cards/website-dark.svg" alt="Ryan Home — 个人网站，记录 AI 产品与网页设计探索。 Website" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/single-agent-analysis" title="BMBWaveforms/single-agent-analysis"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/agent-research-light.svg"><img src="assets/projects/cards/agent-research-dark.svg" alt="Agent Analysis — 拆解 Agent 上下文、工具调用与运行逻辑。 Agent Research" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/single-competitor-analysis" title="BMBWaveforms/single-competitor-analysis"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/product-research-light.svg"><img src="assets/projects/cards/product-research-dark.svg" alt="Competitor Analysis — 按五层方法研究竞品，梳理定位与机制。 Product Research" width="350" height="148"></picture></a>
+  <a href="https://github.com/shuaishuaisylas/LifeOS" title="shuaishuaisylas/LifeOS"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/open-source-light.svg"><img src="assets/projects/cards/open-source-dark.svg" alt="LifeOS · Upstream — 上游项目，提供指南问答与长期记忆。 Open Source" width="350" height="148"></picture></a>
+</p>
 <!-- PROJECTS_END -->
 
 ## 🛠️ Working stack
