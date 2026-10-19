@@ -24,7 +24,7 @@
 <p><strong>AI</strong> &emsp;&nbsp;
   <img src="assets/badges/codex.svg" alt="Codex" width="54" height="24">
   <img src="assets/badges/skills.svg" alt="Agent Skills" width="90" height="24">
-  <img src="assets/badges/prompt.svg" alt="Prompt Design" width="109" height="24">
+  <img src="assets/badges/prompt.svg" alt="Prompt Engineering" width="143" height="24">
 </p>
 
 <p><strong>Focus</strong> &nbsp; AI&nbsp;Products &nbsp; · &nbsp; Vibe&nbsp;Coding &nbsp; · &nbsp; Open&nbsp;Source &nbsp; · &nbsp; Writing</p>
