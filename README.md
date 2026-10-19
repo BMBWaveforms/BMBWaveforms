@@ -32,6 +32,24 @@
 <!-- SOCIAL_LINKS_START -->
 ## ✍️ Writing & Sharing
 
+<!-- ARTICLES_START -->
+<p>
+  <code>01</code> &nbsp; <a href="https://mp.weixin.qq.com/s/iUHAtnVoobJoRqYGRLH51A"><strong>从 Prompt 到 Context：一次 Agent 推理前，上下文究竟是怎么构建的？ ↗</strong></a>
+</p>
+
+<p>
+  <code>02</code> &nbsp; <a href="https://mp.weixin.qq.com/s/r6MzV7tIkW_UUMyRPgCWog"><strong>技术封建主义：AI 时代的又一次圈地运动 ↗</strong></a>
+</p>
+
+<p>
+  <code>03</code> &nbsp; <a href="https://mp.weixin.qq.com/s/2XnkbL4d0gcHSVc1u2QWsw"><strong>聊聊模型评测：为什么你的大模型"跑分很高"，一上线就翻车？ ↗</strong></a>
+</p>
+
+<p>
+  <code>04</code> &nbsp; <a href="https://mp.weixin.qq.com/s/tcH8_DMEWu-QRyvBsFlnig"><strong>AI 正在加速我对世界的消耗 ↗</strong></a>
+</p>
+<!-- ARTICLES_END -->
+
 <p>
   <picture>
     <source media="(max-width: 600px)" srcset="assets/social-card-mobile.png">
