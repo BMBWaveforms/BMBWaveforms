@@ -1,4 +1,6 @@
-<img src="assets/ryan-cover.png" alt="Ryan · 焦博文 · AI Products, Skills and Vibe Coding" width="100%">
+<a href="https://bmbwaveforms.github.io/Ryan-Home/" title="Visit Ryan’s personal website">
+  <img src="assets/ryan-cover.png" alt="Ryan · 焦博文 · AI Products, Skills and Vibe Coding" width="100%">
+</a>
 
 <p align="center">
   <picture>
@@ -11,6 +13,49 @@
   <a href="https://bmbwaveforms.github.io/Ryan-Home/"><img src="assets/badges/website.svg" alt="打开个人网站" width="64" height="24"></a>
   <a href="https://xhslink.cn/o/13OQAkBmW7Q"><img src="assets/badges/xiaohongshu-link.svg" alt="打开我的小红书主页" width="73" height="24"></a>
 </p>
+
+<!-- PROJECTS_START -->
+## 📂 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer">Guoman Character Designer&nbsp;↗</a></h3>
+      <p><sub>国漫角色四视图的中文提示词 Skill。</sub></p>
+      <p><img src="assets/projects/creative-skill.svg" alt="Creative Skill" width="112" height="22"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BMBWaveforms/LifeOS" title="BMBWaveforms/LifeOS">LifeOS · My Fork&nbsp;↗</a></h3>
+      <p><sub>个人分支，探索指南问答与长期记忆。</sub></p>
+      <p><img src="assets/projects/personal-fork.svg" alt="Personal Fork" width="118" height="22"></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BMBWaveforms/Ryan-Home" title="BMBWaveforms/Ryan-Home">Ryan Home&nbsp;↗</a></h3>
+      <p><sub>个人网站，记录 AI 产品与网页设计探索。</sub></p>
+      <p><img src="assets/projects/website.svg" alt="Website" width="87" height="22"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BMBWaveforms/single-agent-analysis" title="BMBWaveforms/single-agent-analysis">Agent Analysis&nbsp;↗</a></h3>
+      <p><sub>拆解 Agent 上下文、工具调用与运行逻辑。</sub></p>
+      <p><img src="assets/projects/agent-research.svg" alt="Agent Research" width="127" height="22"></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BMBWaveforms/single-competitor-analysis" title="BMBWaveforms/single-competitor-analysis">Competitor Analysis&nbsp;↗</a></h3>
+      <p><sub>按五层方法研究竞品，梳理定位与机制。</sub></p>
+      <p><img src="assets/projects/product-research.svg" alt="Product Research" width="139" height="22"></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/shuaishuaisylas/LifeOS" title="shuaishuaisylas/LifeOS">LifeOS · Upstream&nbsp;↗</a></h3>
+      <p><sub>上游项目，提供指南问答与长期记忆。</sub></p>
+      <p><img src="assets/projects/open-source.svg" alt="Open Source" width="110" height="22"></p>
+    </td>
+  </tr>
+</table>
+<!-- PROJECTS_END -->
 
 ## 🛠️ Working stack
 
