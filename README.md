@@ -64,6 +64,6 @@
 
 ---
 
-欢迎交流 AI 产品、Vibe Coding 与 Skills。  
+欢迎交流 AI 产品、Vibe Coding 与 AI 对世界的改变。
 
 <a href="mailto:Ctaisobserving@gmail.com"><img src="assets/badges/email.svg" alt="Email：Say Hello" width="125" height="24"></a> &nbsp; [Ctaisobserving@gmail.com](mailto:Ctaisobserving@gmail.com)
