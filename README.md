@@ -15,15 +15,15 @@
 </p>
 
 <!-- PROJECTS_START -->
-## 📂 Projects
+## 📂 项目展示
 
 <p>
-  <a href="https://github.com/BMBWaveforms/enter-personal-workspace" title="BMBWaveforms/enter-personal-workspace"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/enter-light.svg"><img src="assets/projects/cards/enter-dark.svg" alt="Enter — 个人 AI 工作台，项目优先的长期协作。 AI Workspace" width="350" height="148"></picture></a>
-  <a href="https://github.com/BMBWaveforms/company-research" title="BMBWaveforms/company-research"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/company-research-light.svg"><img src="assets/projects/cards/company-research-dark.svg" alt="Company Research — 贯通公司总览、业务、技术、财务与风险的调研。 Research Skill" width="350" height="148"></picture></a>
-  <a href="https://github.com/BMBWaveforms/GitTrend" title="BMBWaveforms/GitTrend"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/gittrend-light.svg"><img src="assets/projects/cards/gittrend-dark.svg" alt="GitTrend — 每天扫描 GitHub，算出谁在加速的本地趋势看板。 Trend Board" width="350" height="148"></picture></a>
-  <a href="https://bmbwaveforms.github.io/Ryan-Home/" title="Open Ryan’s personal website"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/website-light.svg"><img src="assets/projects/cards/website-dark.svg" alt="Ryan Home — 个人网站，记录 AI 产品探索。 Website · 正在装修" width="350" height="148"></picture></a>
-  <a href="https://github.com/BMBWaveforms/single-agent-analysis" title="BMBWaveforms/single-agent-analysis"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/agent-research-light.svg"><img src="assets/projects/cards/agent-research-dark.svg" alt="Agent Analysis — 拆解 Agent 上下文、工具调用与运行逻辑。 Agent Research" width="350" height="148"></picture></a>
-  <a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/creative-skill-light.svg"><img src="assets/projects/cards/creative-skill-dark.svg" alt="Guoman Character Designer — 国漫角色四视图的中文提示词 Skill。 Creative Skill" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/enter-personal-workspace" title="BMBWaveforms/enter-personal-workspace"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/enter-light.svg?v=zh-20261102"><img src="assets/projects/cards/enter-dark.svg?v=zh-20261102" alt="Enter — 管理项目文件、AI 对话与需求草稿。 AI 工作台" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/company-research" title="BMBWaveforms/company-research"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/company-research-light.svg?v=zh-20261102"><img src="assets/projects/cards/company-research-dark.svg?v=zh-20261102" alt="公司调研 — 梳理企业业务、技术、财务与风险的调研技能。 调研技能" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/GitTrend" title="BMBWaveforms/GitTrend"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/gittrend-light.svg?v=zh-20261102"><img src="assets/projects/cards/gittrend-dark.svg?v=zh-20261102" alt="GitTrend — 追踪 GitHub 项目热度与增长趋势的本地看板。 趋势看板" width="350" height="148"></picture></a>
+  <a href="https://bmbwaveforms.github.io/Ryan-Home/" title="打开 Ryan 的个人网站"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/website-light.svg?v=zh-20261102"><img src="assets/projects/cards/website-dark.svg?v=zh-20261102" alt="Ryan 个人网站 — 记录 AI 产品探索、项目实践与个人思考。 个人网站 · 装修中" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/single-agent-analysis" title="BMBWaveforms/single-agent-analysis"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/agent-research-light.svg?v=zh-20261102"><img src="assets/projects/cards/agent-research-dark.svg?v=zh-20261102" alt="智能体拆解 — 拆解智能体的上下文、工具调用与运行逻辑。 智能体研究" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/creative-skill-light.svg?v=zh-20261102"><img src="assets/projects/cards/creative-skill-dark.svg?v=zh-20261102" alt="国漫角色设计 — 生成国漫角色四视图的中文设计提示词。 创作技能" width="350" height="148"></picture></a>
 </p>
 <!-- PROJECTS_END -->
 
