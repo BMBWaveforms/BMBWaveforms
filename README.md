@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bmbwaveforms.github.io/Ryan-Home/"><img src="assets/badges/website.svg" alt="打开个人网站" width="64" height="24"></a>
+  <a href="https://bmbwaveforms.github.io/Ryan-Home/"><img src="assets/badges/website.svg" alt="打开个人网站（正在装修）" width="131" height="24"></a>
   <a href="https://xhslink.cn/o/13OQAkBmW7Q"><img src="assets/badges/xiaohongshu-link.svg" alt="打开我的小红书主页" width="73" height="24"></a>
 </p>
 
@@ -18,12 +18,12 @@
 ## 📂 Projects
 
 <p>
-  <a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/creative-skill-light.svg"><img src="assets/projects/cards/creative-skill-dark.svg" alt="Guoman Character Designer — 国漫角色四视图的中文提示词 Skill。 Creative Skill" width="350" height="148"></picture></a>
-  <a href="https://github.com/BMBWaveforms/LifeOS" title="BMBWaveforms/LifeOS"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/personal-fork-light.svg"><img src="assets/projects/cards/personal-fork-dark.svg" alt="LifeOS · My Fork — 个人分支，探索指南问答与长期记忆。 Personal Fork" width="350" height="148"></picture></a>
-  <a href="https://bmbwaveforms.github.io/Ryan-Home/" title="Open Ryan’s personal website"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/website-light.svg"><img src="assets/projects/cards/website-dark.svg" alt="Ryan Home — 个人网站，记录 AI 产品与网页设计探索。 Website" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/enter-personal-workspace" title="BMBWaveforms/enter-personal-workspace"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/enter-light.svg"><img src="assets/projects/cards/enter-dark.svg" alt="Enter — 个人 AI 工作台，项目优先的长期协作。 AI Workspace" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/company-research" title="BMBWaveforms/company-research"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/company-research-light.svg"><img src="assets/projects/cards/company-research-dark.svg" alt="Company Research — 贯通公司总览、业务、技术、财务与风险的调研。 Research Skill" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/GitTrend" title="BMBWaveforms/GitTrend"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/gittrend-light.svg"><img src="assets/projects/cards/gittrend-dark.svg" alt="GitTrend — 每天扫描 GitHub，算出谁在加速的本地趋势看板。 Trend Board" width="350" height="148"></picture></a>
+  <a href="https://bmbwaveforms.github.io/Ryan-Home/" title="Open Ryan’s personal website"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/website-light.svg"><img src="assets/projects/cards/website-dark.svg" alt="Ryan Home — 个人网站，记录 AI 产品探索。 Website · 正在装修" width="350" height="148"></picture></a>
   <a href="https://github.com/BMBWaveforms/single-agent-analysis" title="BMBWaveforms/single-agent-analysis"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/agent-research-light.svg"><img src="assets/projects/cards/agent-research-dark.svg" alt="Agent Analysis — 拆解 Agent 上下文、工具调用与运行逻辑。 Agent Research" width="350" height="148"></picture></a>
-  <a href="https://github.com/BMBWaveforms/single-competitor-analysis" title="BMBWaveforms/single-competitor-analysis"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/product-research-light.svg"><img src="assets/projects/cards/product-research-dark.svg" alt="Competitor Analysis — 按五层方法研究竞品，梳理定位与机制。 Product Research" width="350" height="148"></picture></a>
-  <a href="https://github.com/shuaishuaisylas/LifeOS" title="shuaishuaisylas/LifeOS"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/open-source-light.svg"><img src="assets/projects/cards/open-source-dark.svg" alt="LifeOS · Upstream — 上游项目，提供指南问答与长期记忆。 Open Source" width="350" height="148"></picture></a>
+  <a href="https://github.com/BMBWaveforms/guoman-character-designer" title="BMBWaveforms/guoman-character-designer"><picture><source media="(prefers-color-scheme: light)" srcset="assets/projects/cards/creative-skill-light.svg"><img src="assets/projects/cards/creative-skill-dark.svg" alt="Guoman Character Designer — 国漫角色四视图的中文提示词 Skill。 Creative Skill" width="350" height="148"></picture></a>
 </p>
 <!-- PROJECTS_END -->
 
